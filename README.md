@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 CampuSkill
 
 CampuSkill is a web-based placement and student management platform designed to streamline the interaction between **students, recruiters, and administrators**. The system provides role-based access control (RBAC) and enables efficient job application, tracking, and management.
@@ -204,3 +205,6 @@ This project is for educational purposes.
 GitHub: https://github.com/aishwarya442
 
 ---
+=======
+# campuskill
+>>>>>>> main
